@@ -1,0 +1,29 @@
+Metadata-Version: 1.0
+Name: Biointensive
+Version: 0.0
+Summary: Biointensive
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: Biointensive Garden Planner
+        ===========================
+        
+        This garden planner will enable more efficient and pleasant garden planning toward beautiful and productive biointensive gardens.
+        
+        Features
+        * Using data from spreadsheets
+        * Listing dates for future crop events (prick out, transplant, begin harvest, end harvest, pull)
+        
+        
+        0.0
+        ---
+        
+        -  Initial version
+        
+Keywords: web wsgi bfg pylons pyramid
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Pyramid
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application

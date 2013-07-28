@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = biointensive:main
+      [console_scripts]
+      initialize_Biointensive_db = biointensive.scripts.initializedb:main
+      

@@ -1,0 +1,13 @@
+CHANGES.txt
+MANIFEST.in
+development.ini
+production.ini
+setup.cfg
+setup.py
+Biointensive.egg-info/PKG-INFO
+Biointensive.egg-info/SOURCES.txt
+Biointensive.egg-info/dependency_links.txt
+Biointensive.egg-info/entry_points.txt
+Biointensive.egg-info/not-zip-safe
+Biointensive.egg-info/requires.txt
+Biointensive.egg-info/top_level.txt
