@@ -6,3 +6,5 @@ This garden planner will enable more efficient and pleasant garden planning towa
 Features
 * Using data from spreadsheets
 * Listing dates for future crop events (prick out, transplant, begin harvest, end harvest, pull)
+
+Next step: Setup database of crops for BPlanner to reference. Peace, homies!
